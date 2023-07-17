@@ -1,5 +1,5 @@
 # OtherLangs2py
-This is python module which is used to run functions from other languages from python.
+This is python package is used to run functions defined in other languages using python.  
 
 ### Current Supported Languages
 - JavaScript
